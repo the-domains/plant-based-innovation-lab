@@ -1,0 +1,28 @@
+name: Plant based innovation lab
+favicon: null
+layout_spectrum: 0.36543188360519707
+typography_spectrum: 0.5251842751167715
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.04188470682129264
+  lightness: 0.06269896286539733
+  saturation: 0.4630408638622612
+  rhythmicContrast: 0.4112670181784779
+purpose: []
