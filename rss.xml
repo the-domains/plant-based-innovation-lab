@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Plant based innovation lab]]></title>
         <description><![CDATA[Plant based innovation lab]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/plant-based-innovation-lab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 15:35:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 18 Jun 2016 08:49:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/plant-based-innovation-lab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedc8e00508-40bd-44de-a5a1-5477dbf987db/index.html</link>
+            <description><![CDATA[<p>test</p>]]></description>
+            <link>https://thegrid.ai/plant-based-innovation-lab/test/index.html</link>
+            <guid isPermaLink="false">6417db09-6732-4ed1-ac5b-26413033b6be</guid>
+            <pubDate>Sat, 18 Jun 2016 08:49:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/plant-based-innovation-lab/c8e00508-40bd-44de-a5a1-5477dbf987db/index.html</link>
             <guid isPermaLink="false">c8e00508-40bd-44de-a5a1-5477dbf987db</guid>
             <pubDate>Wed, 16 Mar 2016 15:35:39 GMT</pubDate>
         </item>
